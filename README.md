@@ -1,4 +1,4 @@
-# Datascience
+# Real Estate Predictor
 Realestatepredictor project Overview
 Realestatepredictor is a predicting system meant to solve a business problem.
 The data used is acquired from a large Real Estate Investment Trust(REIT) company,this company invests in houses and aparments within a small county in New York Estate and they require to predict fair transaction price of a property before it is sold.
