@@ -5,7 +5,7 @@ The data used is acquired from a large Real Estate Investment Trust(REIT) compan
 
 #problem statement
 The dataset used in this project has been obtained from transaction prices for previous properties on the
-market.It was collected in 2016 and one is expected to build a real-estate pricing model using that dataset.
+market.It was collected on 2016 and one is expected to build a real-estate pricing model using that dataset.
 The model is expected to predict transaction prices with an average error of under US
 Dollars 70,000, for the clients to be very satisfied with this resultant model.
 
