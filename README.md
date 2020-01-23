@@ -1,9 +1,9 @@
-# Datascience
+# Real Estate Predictor Project
 Realestatepredictor project Overview
 Realestatepredictor is a predicting system meant to solve a business problem.
-The data used is acquired from a large Real Estate Investment Trust(REIT) company,this company invests in houses and aparments within a small county in New York Estate and they require to predict fair transaction price of a property before it is sold.
+The data used has been acquired from a large Real Estate Investment Trust(REIT) company,this company invests in houses and aparments within a small county in New York Estate and they require to predict fair transaction price of a property before it is sold.
 
-#problem statement
+problem statement
 The dataset used in this project has been obtained from transaction prices for previous properties on the
 market.It was collected on 2016 and one is expected to build a real-estate pricing model using that dataset.
 The model is expected to predict transaction prices with an average error of under US
@@ -29,9 +29,14 @@ Public records:
 'insurance' - Cost of monthly homeowner's insurance
 
 #Property characteristics:
-'beds' - Number of bedrooms,'baths' - Number of bathrooms,'sqft' - Total floor area in squared feet,'lot_size' - Total outside area in squared feet
-'year_built' - Year property was built,'active_life' - Number of gyms, yoga studios, and sports venues within 1 mile,'basement' - Does the property have a basement?
-'exterior_walls' - The material used for constructing walls of the house,'roof' - The material used for constructing the roof
+'beds' - Number of bedrooms,'baths' - Number of bathrooms,
+'sqft' - Total floor area in squared feet,
+'lot_size' - Total outside area in squared feet
+'year_built' - Year property was built,
+'active_life' - Number of gyms, yoga studios, and sports venues within 1 mile,
+'basement' - Does the property have a basement?
+'exterior_walls' - The material used for constructing walls of the house,
+'roof' - The material used for constructing the roof
 
 #Location convenience scores:
 'restaurants' - Number of restaurants within 1 mile
