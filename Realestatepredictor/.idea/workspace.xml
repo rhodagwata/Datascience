@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a317ab2-5ae8-4fe7-90e1-ece433bfedb2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Wk4089xeg7C00v78PXRRLVVjlq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="predicting_real_estate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Realestatepredictor" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/predicting_real_estate.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.predicting_real_estate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a317ab2-5ae8-4fe7-90e1-ece433bfedb2" name="Default Changelist" comment="" />
+      <created>1579680032157</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579680032157</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1342" height="8" key="GridCell.Tab.0.bottom" timestamp="1579700302599">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1342" height="8" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1579700302599" />
+    <state width="1342" height="8" key="GridCell.Tab.0.center" timestamp="1579700302599">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1342" height="8" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1579700302599" />
+    <state width="1342" height="8" key="GridCell.Tab.0.left" timestamp="1579700302598">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1342" height="8" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1579700302598" />
+    <state width="1342" height="8" key="GridCell.Tab.0.right" timestamp="1579700302599">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1342" height="8" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1579700302599" />
+    <state x="349" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1579698572058">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="349" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1579698572058" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LinearRegression.py</url>
+          <line>69</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
